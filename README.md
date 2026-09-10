@@ -2,5 +2,5 @@
 this orginal qdeehv1 model
 Use my model directly in 
 
-[![open space ](https://shields.io)](https://huggingface.co/spaces/Qdeer/qdeeh0)
+[![Open in Spaces](https://huggingface.co)](https://huggingface.co/spaces/Qdeer/qdeeh0)
 
