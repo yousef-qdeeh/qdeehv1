@@ -1,5 +1,6 @@
 # qdeehv1
 this orginal qdeehv1 model
-open my model in 
+Use my model directly in 
 
-[![Open space ](https://dashboardicons.com/icons/hugging-face)](https://google.com)
+[![open space ](https://shields.io)](https://huggingface.co/spaces/Qdeer/qdeeh0)
+
