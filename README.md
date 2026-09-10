@@ -2,6 +2,7 @@
 this orginal qdeehv1 model
 Use my model directly in 
 
-[![Hugging Face Spaces](https://shields.io)](https://huggingface.co/spaces/Qdeer/qdeeh0)
-
+<a href="https://huggingface.co" target="_blank">
+     <img src="https://huggingface.co" alt="Open in Spaces">
+</a>
 
